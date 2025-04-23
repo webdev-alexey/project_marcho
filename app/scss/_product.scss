@@ -7,15 +7,15 @@
 
 .product-item {
   max-width: 370px;
-  // text-align: center;
+  text-align: center;
   &__img-box {
     position: relative;
     height: 370px;
-    // overflow: hidden;
+    overflow: hidden;
   }
 
   &__link-box {
-    //     transition: all 0.3s;
+    transition: all 0.3s;
     position: absolute;
     left: 0;
     right: 0;
