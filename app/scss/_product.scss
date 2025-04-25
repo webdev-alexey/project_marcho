@@ -32,15 +32,15 @@
     transform: translateY(300%);
   }
 
-  //   &__link--line::before,
-  //   &__link--line::after {
-  //     content: "";
-  //     position: absolute;
-  //     background-color: #ececec;
-  //     width: 1px;
-  //     height: 30px;
-  //     top: 10px;
-  //   }
+  &__link--line::before,
+  &__link--line::after {
+    content: "";
+    position: absolute;
+    background-color: #ececec;
+    width: 1px;
+    height: 30px;
+    top: 10px;
+  }
 
   //   &__link--line::before {
   //     left: 70px;
