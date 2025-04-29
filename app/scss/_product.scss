@@ -57,11 +57,11 @@
     }
   }
 
-  //   &__link:hover {
-  //     path {
-  //       fill: $accent;
-  //     }
-  //   }
+  &__link:hover {
+    path {
+      fill: $accent;
+    }
+  }
 
   &__images {
     object-fit: cover;
