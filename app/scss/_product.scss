@@ -67,11 +67,11 @@
     object-fit: cover;
   }
 
-  //   &:hover {
-  //     .product-item__link-box {
-  //       transform: translateY(0);
-  //     }
-  //   }
+  &:hover {
+    .product-item__link-box {
+      transform: translateY(0);
+    }
+  }
 
   //   &__title {
   //     color: $white;
