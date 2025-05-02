@@ -84,10 +84,10 @@
     @extend %roboto-400;
   }
 
-  //   &__new-price {
-  //     padding: 0 12px;
-  //     color: $title;
-  //   }
+  &__new-price {
+    padding: 0 12px;
+    color: $title;
+  }
 
   //   &__old-price {
   //     padding: 0 12px;
