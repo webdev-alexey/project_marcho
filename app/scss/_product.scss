@@ -89,8 +89,8 @@
     color: $title;
   }
 
-  //   &__old-price {
-  //     padding: 0 12px;
-  //     text-decoration: line-through;
-  //   }
+  &__old-price {
+    padding: 0 12px;
+    text-decoration: line-through;
+  }
 }
