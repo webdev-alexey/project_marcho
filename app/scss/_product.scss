@@ -78,16 +78,16 @@
     padding: 15px 0 20px;
   }
 
-  // &__price {
-  //   display: flex;
-  //   justify-content: center;
-  //   @extend %roboto-400;
-  // }
+  &__price {
+    display: flex;
+    justify-content: center;
+    @extend %roboto-400;
+  }
 
-  // &__new-price {
-  //   padding: 0 12px;
-  //   color: $title;
-  // }
+  &__new-price {
+    padding: 0 12px;
+    color: $title;
+  }
 
   // &__old-price {
   //   padding: 0 12px;
